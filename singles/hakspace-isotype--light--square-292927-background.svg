@@ -16,7 +16,7 @@
    width="1024"
    height="1024"
    viewBox="0 0 1024 1024"
-   sodipodi:docname="hakspace-isotipo--light--square-black-background.svg"><metadata
+   sodipodi:docname="hakspace-isotype--light--square-292927-background.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -54,7 +54,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.22627417"
-     inkscape:cx="122.04286"
+     inkscape:cx="55.751599"
      inkscape:cy="300.10898"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -75,12 +75,14 @@
        height="819.20001"
        x="519.72345"
        y="-1423.7762"
-       transform="scale(1,-1)" /><g
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" /><g
        id="g5381"
        inkscape:export-filename="/home/zodiac/Development/hackspaceperu/landing-11-2016-hackspace.pe/static/img/isotipo-light.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="matrix(1.5991919,0,0,1.5991919,-2733.7013,-672.96527)"><path
+       transform="matrix(1.6471676,0,0,1.6471676,-2843.592,-723.57948)"><path
          d="m 2304.8267,1231.1353 c -8.834,5.102 -19.721,5.102 -28.557,0 -32.024,-18.489 -64.05,-36.979 -96.076,-55.47 1.695,-0.63 3.389,-1.265 5.08,-1.907 5.643,-2.139 11.264,-4.334 16.869,-6.572 20.319,11.731 40.637,23.462 60.955,35.193 4.934,2.849 9.868,5.696 14.803,8.545 7.826,4.52 17.469,4.52 25.297,0 4.424,-2.554 8.846,-5.107 13.27,-7.661 20.828,-12.025 41.656,-24.05 62.482,-36.074 5.604,2.236 11.223,4.431 16.865,6.57 1.694,0.641 3.387,1.277 5.084,1.908 -32.023,18.489 -64.047,36.979 -96.072,55.468"
          style="fill:#fcbe00;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path492"

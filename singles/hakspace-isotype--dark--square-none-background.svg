@@ -16,10 +16,10 @@
    width="1024"
    height="1024"
    viewBox="0 0 1024 1024"
-   sodipodi:docname="hakspace-isotipo--dark--square-transparent-background.svg"><metadata
+   sodipodi:docname="hakspace-isotype--dark--square-none-background.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath16"><path
@@ -54,7 +54,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.16"
-     inkscape:cx="-817.05333"
+     inkscape:cx="-410.80333"
      inkscape:cy="-76.995811"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -69,7 +69,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Logos-Vectores"
      transform="matrix(1.25,0,0,-1.25,-1214.5086,1946.3193)"><g
-       id="g4439"><rect
+       id="g7026"><rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
          transform="scale(1,-1)"
          y="-1557.0554"
          x="971.60687"
@@ -81,7 +83,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/zodiac/Development/hackspaceperu/landing-11-2016-hackspace.pe/static/img/isotipo-dark-circle-solid-white.png"
          id="g5350-2"
-         transform="matrix(1.5991915,0,0,1.5991915,360.0708,-497.3906)"><path
+         transform="matrix(1.6471672,0,0,1.6471672,329.43669,-546.73591)"><path
            inkscape:connector-curvature="0"
            id="path452-7"
            style="fill:#1d1d1b;fill-opacity:1;fill-rule:nonzero;stroke:none"
