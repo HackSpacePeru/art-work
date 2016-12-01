@@ -3,8 +3,6 @@
 HackSpace's iconography and imagery which will be user in our projects.
 Coming soon on DeviantArt :sunglasses:.
 
-![Landing preview](banner.png)
-
 ## Authors
 ##### Designer
 * [@alvarorcu](https://github.com/alvarorcu)
